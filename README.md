@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming and Problem solving
 - 🌱 I’m currently learning C++ and Latex
 - 📫 How to reach me:
-  - email: hung.v.vu.cs@gmail.com
+  - email: hung.h.vu@aalto.fi
 
 <!---
 hungvvu/hungvvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
