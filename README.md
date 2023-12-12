@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hungvvu
 - 📜 I'm studying Digital Systems and Design at Aalto University
-- 👀 I’m interested in Programming and Problem solving
-- 🌱 I’m currently learning C++ and Latex
+- 👀 I’m interested in Computer Science and Problem solving
+- 🌱 I’m currently learning Python, Kubernetes, Distributed Systems, and Latex
 - 📫 How to reach me:
   - email: hung.h.vu@aalto.fi
 
