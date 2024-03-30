@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @hungvvu
-- 📜 I'm studying Digital Systems and Design at Aalto University
-- 👀 I’m interested in Computer Science and Problem solving
-- 🌱 I’m currently learning Python, Kubernetes, Distributed Systems, and Latex
-- 📫 How to reach me:
-  - email: hung.h.vu@aalto.fi
+Hi, I'm Hung. I'm a last-year student in Digital Systems and Design @Aalto University and cloud-native software development intern @Nokia. My work mainly revolves around distributed systems, cloud-native digital twins, and chaos engineering.
+
+I'm currently learning more about Machine Learning and Artificial Intelligence (doesn't everybody nowadays). I'm also trying to spend more time contributing to open-source projects in my free time.
+
+You can reach me at hung.h.vu@aalto.fi.
 
 <!---
 hungvvu/hungvvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
