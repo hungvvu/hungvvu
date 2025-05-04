@@ -1,4 +1,4 @@
-Hi, I'm Hung. I'm a last-year student in Digital Systems and Design @Aalto University and cloud-native software development intern @Nokia. My work mainly revolves around distributed systems, cloud-native digital twins, and chaos engineering.
+Hi, I'm Hung. I'm a Machine Learning Ops Engineer @Nokia and a recent graduate of the Digital Systems and Design programme @Aalto University. My work mainly revolves around distributed systems, cloud-native digital twins, and chaos engineering.
 
 I'm currently learning more about Machine Learning and Artificial Intelligence. I'm also trying to spend more time contributing to open-source projects in my free time.
 
