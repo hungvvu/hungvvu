@@ -2,7 +2,7 @@ Hi, I'm Hung. I'm a Machine Learning Ops Engineer @Nokia and a recent graduate o
 
 I'm currently learning more about Machine Learning and Artificial Intelligence. I'm also trying to spend more time contributing to open-source projects in my free time.
 
-You can reach me at hung.h.vu@aalto.fi.
+You can reach me at hung.v.vu.cs@gmail.com.
 
 <!---
 hungvvu/hungvvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
